@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { PlusIcon } from 'lucide-vue-next';
 
 </script>
 
@@ -9,54 +10,13 @@
         <VListItem><img src="./assets/images/Del_Pizza (1).png" alt=""> </VListItem>
       </VList>
     </VNavigationDrawer>
-
-    <VAppBar style="background-color: #d72323;"></VAppBar>
-
+    <VAppBar color="#d72323"></VAppBar>
     <VMain class="d-flex align-center justify-center bg-gray-200" style="min-height: 300px;">
-      
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus, accusamus? Dolorum dolore hic, explicabo vel atque maxime, quae ut, vero expedita aut voluptatibus veritatis excepturi odit voluptates non doloribus? Error!
+      <div class="fixed bottom-4 right-4">
+        <VFab color="#d72323" icon="$plus" variant="flat">
+          <PlusIcon :size="25" />
+        </VFab>
+      </div>
     </VMain>
   </VLayout>
 </template>
-
