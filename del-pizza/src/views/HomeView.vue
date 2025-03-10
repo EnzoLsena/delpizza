@@ -57,8 +57,8 @@ const openModal = () => {
       <p class="mb-4">*Uma pizza = <strong>R$ 50,00</strong></p>
 
       <div class="mb-4">
-        <VTextField label="Nome" placeholder="Digite o nome do funcion�rio" class="mb-3" />
-        <VTextarea label="Justificativa" placeholder="Digite a justificativa" class="mb-3" />
+        <VTextField label="Nome" placeholder="Digite o nome do funcionário"  variant="outlined" class="mb-3" />
+        <VTextarea label="Justificativa" placeholder="Digite a justificativa" class="mb-3" variant="outlined" />
       </div>
 
       <div class="d-flex justify-end mt-4">
